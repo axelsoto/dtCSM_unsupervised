@@ -15,6 +15,7 @@ Despite of the separations of the different labels is not perfect, from an unsup
 
 
 ----------------------------------------------
+_If you find this method useful for your research project, please cite:_
 
 A.J. Soto, R. Kiros, V. Keselj, E. Milios. "Exploratory Visual Analysis and Interactive Pattern Extraction from Semi-Structured Data", ACM Transactions on Interactive and Intelligent Systems. Vol 5, 3, Article 16, 2015.
 
